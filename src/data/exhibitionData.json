@@ -1,16 +1,16 @@
 {
   "eventDetails": {
-    "title": "BW EXHIBITION INDIA",
+    "title": "BW EXHIBITION",
     "subheading": "Extra Flat ₹500 OFF on Premium Branded Clothing",
-    "dates": "July 3rd – 5th, 2026",
+    "dates": "July 25th – 26th, 2026",
     "timings": "10:00 AM – 10:00 PM",
-    "venue": "SHERATON HYDERABAD HOTEL",
-    "address": "115/1, Nanakramguda Rd, Financial District, Gachibowli, Hyderabad, Nanakramguda, Telangana 500032",
+    "venue": "Jaypee Palace Hotel & Convention Centre",
+    "address": "5339+G6Q, Fatehabad Rd, Tajganj, Tora, Uttar Pradesh 282006",
     "couponValue": "₹500 OFF",
-    "couponValidity": "Valid till 5th July 2026",
+    "couponValidity": "Valid till 26th July 2026",
     "bannerText": "EXCLUSIVE DESIGNER APPAREL & LUXURY STREETWEAR",
-    "locationLink": "https://maps.app.goo.gl/12fzKPy8KkL9E5SF6?g_st=ic",
-    "timerTarget": "2026-07-05T23:59"
+    "locationLink": "https://maps.app.goo.gl/uqmSmuzF5NZDQFY5A",
+    "timerTarget": "2026-07-26T23:59"
   },
   "brands": [
     "Armani Exchange",
@@ -130,13 +130,13 @@
     "Testing"
   ],
   "googleFormConfig": {
-    "sheetLink": "https://docs.google.com/spreadsheets/d/1DT-NJP56kGuoubTxMQeg3-UMcdHXExCqit37w7AveOQ/edit?usp=sharing",
-    "formLink": "https://docs.google.com/forms/d/e/1FAIpQLSewHrcuEsV0bdFB3_77PcHLQ3b6H-BESl40Px_bbws1fuHdkg/viewform?usp=header",
-    "actionUrl": "https://script.google.com/macros/s/AKfycbzSbNmhAB6rR80kOQ9a-zOFTLOic5hnKWMB-LNIQXK0LW2SycByjKd4UuPkjcpYSI_rwg/exec",
-    "entryName": "entry.1846128796",
-    "entryEmail": "entry.1533091110",
-    "entryPhone": "entry.1863114332",
-    "subsheetName": "zeel",
-    "entrySubsheet": "entry.840729428"
+    "sheetLink": "https://docs.google.com/spreadsheets/d/1tbiK6NuqELqI8eJESog_JfK4wIJbdo7cLVc1qtowP8s/edit?usp=sharing",
+    "formLink": "https://docs.google.com/forms/d/e/1FAIpQLScMCbrfUUye66L76MdGeR1UrgghtGrJ49nghdxtSl4PfIVtAw/viewform?usp=header",
+    "actionUrl": "https://docs.google.com/forms/u/0/d/e/1FAIpQLScMCbrfUUye66L76MdGeR1UrgghtGrJ49nghdxtSl4PfIVtAw/formResponse",
+    "entryName": "entry.1780979563",
+    "entryEmail": "entry.1562109840",
+    "entryPhone": "entry.735973886",
+    "subsheetName": "Agra 25 to 26 July",
+    "entrySubsheet": "entry.1397102979"
   }
 }
